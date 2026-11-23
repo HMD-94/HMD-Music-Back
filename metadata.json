@@ -1,0 +1,8 @@
+{
+  "name": "HMD Music",
+  "description": "Application web de musique moderne avec streaming et intégration YouTube officielle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
